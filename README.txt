@@ -1,5 +1,5 @@
 Deep Learning Image Classification and Transfer Learning project.
-You can find more information about the experiment conducted for the project in the Power Point presentation.
+You can find more information about the experiment conducted for the project in the Power Point presentation in the pdf.
 
 
 The datasets used for this project are available at the links:
